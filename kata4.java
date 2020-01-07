@@ -26,3 +26,4 @@ class Main {
     System.out.println(c);
   }
 }
+//Integer.bitCount(n)
